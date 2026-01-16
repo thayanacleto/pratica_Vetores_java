@@ -1,0 +1,1 @@
+Exercícios de vetores em Java para praticar declaração, inicialização e manipulação de arrays. Inclui iteração com for e foreach, cálculo de soma, média, máximo e mínimo, busca e ordenação de elementos. Ideal para fortalecer lógica de programação e fundamentos de arrays em Java.
